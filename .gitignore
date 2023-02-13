@@ -24,4 +24,4 @@ yarn-error.log*
 
 storybook-static
 
-# playwright-report
+playwright-report
